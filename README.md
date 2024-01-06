@@ -9,8 +9,4 @@
 
 - 📫 How to reach me **belkhiriislam4@gmail.com**
 - ⚡ Fun fact : **Debugging is like being the detective in a crime movie where you're also the murderer. #CodeMysteries 🔍💻**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-islem-belkhiri-633b8a194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed islem belkhiri" height="30" width="40" /></a>
-<a href="https://discord.gg/medislem7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="medislem7" height="30" width="40" /></a>
 </p>
