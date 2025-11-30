@@ -1,12 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Mohamed Islem BELKHIRI</h1>
-<h3 align="center">Dedicated to mastering data science and AI, fueled by a passion for continuous learning</h3>
+<h3 align="center">Student at Université Paris-Saclay | Passionate about Networks, Cybersecurity, AI, and Cloud</h3>
+
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
-- 🔭 I’m currently working on **Price Prediction Projects**
-
-- 🌱 I’m currently learning **the ins and outs of NumPy, Pandas, and scikit-learn ....,enhancing my proficiency in these powerful tools for data manipulation and machine learning applications**
-
-- 📫 How to reach me **belkhiriislam4@gmail.com**
-- ⚡ Fun fact : **Debugging is like being the detective in a crime movie where you're also the murderer. #CodeMysteries 🔍💻**
-</p>
+- 🎓 I’m currently a student at **Université Paris-Saclay (UVSQ)**  
+- 🌐 I’m deeply interested in **Networks, Cybersecurity, AI, and Cloud Computing**
+- 🚀 I’m constantly learning and building projects to strengthen my skills  
+- 🌱 Currently exploring **advanced networking concepts, secure architectures, and intelligent systems**  
+- ☁️ Also expanding my knowledge in **cloud platforms and modern infrastructure tools**
