@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 - 🎓 I’m currently a student at **Université Paris-Saclay (UVSQ)**  
-- 🌐 I’m deeply interested in **Networks, Cybersecurity, AI, and Cloud Computing**
-- 🚀 I’m constantly learning and building projects to strengthen my skills  
+- 🌐 I’m deeply interested in **Networks, Cybersecurity, AI, and Cloud Computing** 
 - 🌱 Currently exploring **advanced networking concepts, secure architectures, and intelligent systems**  
 - ☁️ Also expanding my knowledge in **cloud platforms and modern infrastructure tools**
